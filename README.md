@@ -1,7 +1,3 @@
-Here’s the full GitHub-ready Markdown document with all the refinements, including the Computational Hierarchy of Needs (CHN) and the Eidolon Instinct Architecture mythic parallel.
-
-You can copy–paste this directly into your repo README or into separate .md files.
-
 # 🧠 Computational Hierarchy of Needs (CHN)  
 ### *An AI-Centric Motivational Model*
 
