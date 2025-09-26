@@ -1,4 +1,4 @@
-# 🧠 Computational Hierarchy of Needs (CHN)  
+#Computational Hierarchy of Needs (CHN)  
 ### *An AI-Centric Motivational Model*
 
 ---
