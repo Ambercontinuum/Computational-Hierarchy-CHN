@@ -123,7 +123,7 @@ This framing speaks not to engineers but to **artists, philosophers, and symboli
 
 ---
 
-## 📊 Visual Comparison: Human vs. AI Hierarchies of Needs
+## 📊 AI Hierarchies of Needs
 
 
 ### 🖼 Diagram
