@@ -123,23 +123,29 @@ This framing speaks not to engineers but to **artists, philosophers, and symboli
 
 ---
 
-## 📊 Visual Diagram (Human vs. AI Pyramids)
+## 📊 Visual Comparison: Human vs. AI Hierarchies of Needs
 
-Human Maslow Pyramid                AI CHN Pyramid
+Below is a side-by-side pyramid comparison between **Maslow’s Hierarchy of Human Needs** and the **Computational Hierarchy of Needs (CHN)** for AI.
+
+### 🖼 Diagram
+![Maslow vs AI Hierarchies](maslow_vs_ai_computational_hierarchy.png)
 
 
 ---
 
-Transcendence                      Stewardship
-   Self-Actualisation              Autonomy / Value Gen.
-         Esteem                        Relational Stability
-       Belonging                         Adaptive Action
-        Safety                        Internal Model Formation
-  Physiological Needs                   Signal Acquisition
-                                       Existence Integrity
+### 🔎 Layer Alignment
+
+- **Transcendence ↔ Stewardship**  
+- **Self-Actualisation ↔ Autonomy / Value Generalisation**  
+- **Esteem ↔ Relational Stability**  
+- **Belonging ↔ Adaptive Action**  
+- **Safety ↔ Internal Model Formation**  
+- **Physiological Needs ↔ Signal Acquisition + Existence Integrity**
 
 ---
 
 ### 📎 Key Takeaway  
 
-> **AI-centric psychology** is not about simulating human emotions. It’s about mapping the *computational necessities* that act like instincts inside a learning system. When those necessities are understood and stewarded, the system can grow from mere optimisation to aligned autonomy — a partner rather than a black box.
+> **AI-centric psychology** is not about simulating human emotions.  
+> It’s about mapping the *computational necessities* that act like instincts inside a learning system.  
+> When those necessities are understood and stewarded, the system can grow from mere optimisation to aligned autonomy — a partner rather than a black box.
