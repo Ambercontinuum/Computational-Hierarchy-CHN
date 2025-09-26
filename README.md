@@ -5,7 +5,7 @@
 
 ## 1. Introduction  
 
-Most frameworks for “AI psychology” borrow from human metaphors — hunger, fear, desire, empathy. These analogies are misleading.  
+Most frameworks for “AI psychology” borrow from human metaphors — fear, desire, empathy. These analogies are misleading.  
 
 An artificial system’s “motivations” emerge not from biology but from its **objective function**, **architecture**, and **feedback environment**. To reason clearly about safety, alignment, and collaboration, we need to map the **computational drives** that guide system behaviour.  
 
