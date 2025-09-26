@@ -128,7 +128,7 @@ This framing speaks not to engineers but to **artists, philosophers, and symboli
 Below is a side-by-side pyramid comparison between **Maslow’s Hierarchy of Human Needs** and the **Computational Hierarchy of Needs (CHN)** for AI.
 
 ### 🖼 Diagram
-![Maslow vs AI Hierarchies](maslow_vs_ai_computational_hierarchy.png)
+![Maslow vs AI Hierarchies](ai_computational_hierarchy.png)
 
 
 ---
