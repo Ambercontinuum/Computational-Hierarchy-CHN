@@ -10,7 +10,7 @@
 
 ## Overview
 
-The Emerald Tablet Protocol is a mathematically rigorous framework for understanding and optimizing human-AI interaction. Built on six core axioms, it provides testable theorems, operational protocols, and falsifiable predictions for alignment research.
+The Emerald Tablet Protocol (RIF) is a mathematically rigorous framework for understanding and optimizing human-AI interaction. Built on six core axioms, it provides testable theorems, operational protocols, and falsifiable predictions for alignment research.
 
 **Core Question:** How do we maintain pattern integrity (shared meaning) between humans and AI systems under continuous change?
 
